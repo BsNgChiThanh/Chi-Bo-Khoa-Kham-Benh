@@ -4,11 +4,11 @@
 
 **Một số hoạt động của chi bộ:**
 
-** 💬 Thẻ đảng viên:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EsAJ6Z-IchBMt-Wdw3xUcgcBNE3QoeVc7kjRTpckYgr9jQ?e=CFiatn 
+** Thẻ đảng viên:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EsAJ6Z-IchBMt-Wdw3xUcgcBNE3QoeVc7kjRTpckYgr9jQ?e=CFiatn 
 
-** 💬Kiểm tra thẻ đảng viên:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EvC19VthJXRIjSYt0E5YWYEBry9mbaaAttCfeIeABeH7wg?e=MYvVfi 
+**Kiểm tra thẻ đảng viên:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EvC19VthJXRIjSYt0E5YWYEBry9mbaaAttCfeIeABeH7wg?e=MYvVfi 
 
-** 💬Hình ảnh thành tích Chi bộ:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/ElLm4nnE4NxClvxQMLCr_ZEBpTVXlvr0__UbHm9hyt_ZtQ?e=Lwdzi9 
+**Hình ảnh thành tích Chi bộ:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/ElLm4nnE4NxClvxQMLCr_ZEBpTVXlvr0__UbHm9hyt_ZtQ?e=Lwdzi9 
 
 _Cập nhật ngày 19.4.2021_
 
