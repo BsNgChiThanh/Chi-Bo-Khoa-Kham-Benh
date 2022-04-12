@@ -4,11 +4,11 @@
 
 **🌱Một số hoạt động của chi bộ:**
 
-**🌱Thẻ đảng viên:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EsAJ6Z-IchBMt-Wdw3xUcgcBNE3QoeVc7kjRTpckYgr9jQ?e=CFiatn 
+**🌱Thẻ đảng viên:** https://bit.ly/3EcDnRO
 
-**🌱Kiểm tra thẻ đảng viên:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EvC19VthJXRIjSYt0E5YWYEBry9mbaaAttCfeIeABeH7wg?e=MYvVfi 
+**🌱Kiểm tra thẻ đảng viên:** https://bit.ly/3uv468T  
 
-**🌱Hình ảnh thành tích Chi bộ:** https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/ElLm4nnE4NxClvxQMLCr_ZEBpTVXlvr0__UbHm9hyt_ZtQ?e=Lwdzi9 
+**🌱Hình ảnh thành tích Chi bộ:** https://bit.ly/3EjnrNL 
 
 _Cập nhật ngày 19.4.2021_
 
@@ -22,8 +22,8 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 04 | Trang Thành Lập | Trưởng khoa Khám bệnh | X |  | 03.07.1998 | X 
 05 | Võ Minh Hiếu | | X |  | 03.11.2004 | X
 06 | Trần Văn Định | | X |  | 03.12.2009 | 
-07 | Nguyễn Kiều Trinh | | | X | 03.11.2015 |
-08 | Nguyễn Nhi Thanh | | X |  | 05.10.2018 |
+07 | Trịnh Bảo Trung | | X | | 
+08 | Quách Kim Bấu | | | X | 02.09.2020 |
 09 | Nguyễn Văn Cường | | X |  | 27.02.2018 |
 10 | Mai Việt Khái | | X |  | 03.10.2019 |
 11 | Thang Hoa Xuân | | | X | 03.10.2019 |
@@ -32,5 +32,5 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 14 | Huỳnh Diễm Thúy | | | X | 03.11.2007 |
 15 | Lê Minh Trí | | X |  | 20.08.2012 |
 16 | Dương Minh Toàn | | X | | 12.07.2016 |
-17 | Nguyễn Văn Toàn | | X | | 02.09.2020 |
-18 | Quách Kim Bấu | | | X | 02.09.2020 |
+17 |||||  
+18 | ||||
