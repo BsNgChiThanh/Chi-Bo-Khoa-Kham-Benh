@@ -20,11 +20,11 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 02 | Phạm Văn Nhân | Phó khoa Khám bệnh | X |  | 10.11.2012 | X 
 03 | Lê Thị Lan | ĐD trưởng khoa Khám bệnh | | X | 30.04.2010 | X
 04 | Trang Thành Lập | Trưởng khoa Khám bệnh | X |  | 03.07.1998 | X 
-05 | Võ Minh Hiếu | | X |  | 03.11.2004 | X
+05 | Võ Minh Hiếu |Phó khoa Cấp cứu | X |  | 03.11.2004 | X
 06 | Trần Văn Định | | X |  | 03.12.2009 | 
 07 | Trịnh Bảo Trung | | X | | 
 08 | Quách Kim Bấu | | | X | 02.09.2020 |
-09 | Nguyễn Văn Cường | | X |  | 27.02.2018 |
+09 | Nguyễn Văn Cường |Điều dưỡng trưởng khoa Cấp cứu | X |  | 27.02.2018 |
 10 | Mai Việt Khái | | X |  | 03.10.2019 |
 11 | Thang Hoa Xuân | | | X | 03.10.2019 |
 12 | Võ Cẩm Chiêu | | | X | 03.10.2019 |
