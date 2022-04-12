@@ -32,5 +32,5 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 14 | Huỳnh Diễm Thúy | | | X | 03.11.2007 |
 15 | Lê Minh Trí | | X |  | 20.08.2012 |
 16 | Dương Minh Toàn | | X | | 12.07.2016 |
-17 |||||  
+17 |Phan Thị Thúy Phương |||X|03.10.2021|  
 18 | ||||
