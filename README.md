@@ -1,3 +1,6 @@
+# Chi-Bo-Khoa-Kham-Benh
+Chi bộ khoa khám bệnh
+
 # 👋Chi bộ Khoa Khám bệnh
 
  ## 👯Trực thuộc Đảng bộ Bệnh viện Đa khoa Đầm Dơi!
