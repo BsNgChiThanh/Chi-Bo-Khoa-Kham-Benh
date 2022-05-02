@@ -40,13 +40,13 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 04 | Trang Thành Lập | Trưởng khoa Khám bệnh | X |  | 03.07.1998 | X 
 05 | Võ Minh Hiếu |Phó khoa Cấp cứu | X |  | 03.11.2004 | X
 06 | Trịnh Bảo Trung | | X | |03.11.2016| 
-07 | Quách Kim Bấu | | | X | 02.09.2020 |
+07 | Huỳnh Diễm Thúy | | | X | 03.11.2007 |
 08 | Nguyễn Văn Cường |Điều dưỡng trưởng khoa Cấp cứu | X |  | 27.02.2018 |
 09 | Mai Việt Khái | | X |  | 03.10.2019 |
 10 | Thang Hoa Xuân | | | X | 03.10.2019 |
 11 | Võ Cẩm Chiêu | | | X | 03.10.2019 |
 12 | Trương Hồng Phương | | | X | 06.10.2018 |
-13 | Huỳnh Diễm Thúy | | | X | 03.11.2007 |
+13 | Quách Kim Bấu | | | X | 02.09.2020 |
 14 | Lê Minh Trí | | X |  | 20.08.2012 |
 15 | Dương Minh Toàn | | X | | 12.07.2016 |
 16 |Phan Thị Thúy Phương |||X|03.10.2021|  
