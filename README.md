@@ -41,15 +41,26 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 05 | Võ Minh Hiếu |Phó khoa Cấp cứu | X |  | 03.11.2004 | X
 06 | Trịnh Bảo Trung | | X | |03.11.2016| 
 07 | Huỳnh Diễm Thúy | | | X | 03.11.2007 |
-08 | Nguyễn Văn Cường |Điều dưỡng trưởng khoa Cấp cứu | X |  | 27.02.2018 |
-09 | Mai Việt Khái | | X |  | 03.10.2019 |
-10 | Thang Hoa Xuân | | | X | 03.10.2019 |
-11 | Võ Cẩm Chiêu | | | X | 03.10.2019 |
-12 | Trương Hồng Phương | | | X | 06.10.2018 |
-13 | Quách Kim Bấu | | | X | 02.09.2020 |
-14 | Lê Minh Trí | | X |  | 20.08.2012 |
-15 | Dương Minh Toàn | | X | | 12.07.2016 |
-16 |Phan Thị Thúy Phương |||X|03.10.2021|  
+08 | Nguyễn Hoàng Đấu | | X | |10.12.2003 | x
+09 | Nguyễn Văn Cường |Điều dưỡng trưởng khoa Cấp cứu | X |  | 27.02.2018 |
+10 | Mai Việt Khái | | X |  | 03.10.2019 |
+11 | Thang Hoa Xuân | | | X | 03.10.2019 |
+12 | Võ Cẩm Chiêu | | | X | 03.10.2019 |
+13 | Trương Hồng Phương | | | X | 06.10.2018 |
+14 | Quách Kim Bấu | | | X | 02.09.2020 |
+15 | Lê Minh Trí | | X |  | 20.08.2012 |
+16 | Dương Minh Toàn | | X | | 12.07.2016 |
+17 |Phan Thị Thúy Phương |||X|03.10.2021|  
+
+# CHƯƠNG TRÌNH ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
+
+1. [Văn kiện](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EbdRJDJuf8dCiOhBF06jYS4BorPKeFrJ6PMXQJRvg6TxxQ?e=Uvrghi)
+2. [Kịch bản đại hội](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EXnFtF9sd5lNiaIV6w5PQ6QBzb04dagkMPqXRvIx8s1Ckw?e=pOkomN)
+3. [Phiếu bầu cử](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/ESPlk1Kc13VMnwRw-yqYbPwBp0K7FYn1DjQu_uwFeRi7GA?e=fr1z9g)
+4. [Biên bản bầu cử](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EQ6sdxa_vcRFha_FlVYVSwwBRre9YyAe1QTf4zIZp8j-Lw?e=mBu9Ak)
+5. [Nghị quyết chi bộ](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EWPf3_m3QvNJpHwBmUVndM0BH9_yXl3LYX1J_e-i_2H01w?e=C2Cc5z)
+6. [Quốc ca và Quốc tế ca có lời](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EW8IvGMJ9HBBttB6MvVPvIkBdZxPK9VvYUP5JDWlRENzLQ?e=iaDyBE)
+7. [Quốc ca và Quốc tế ca không lời](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/Ea_MUFDliCZGqFSpAackfVUB3s_HAkZ5z7z9NtWwqqtkGw?e=I6r1mK)
 
 # HÌNH ẢNH HOẠT ĐỘNG CHI BỘ #
 
