@@ -12,6 +12,7 @@ Chi bộ khoa khám bệnh
 **🌱Kiểm tra thẻ đảng viên:** https://bit.ly/3uv468T  
 
 **🌱Hình ảnh thành tích Chi bộ:** https://bit.ly/3EjnrNL 
+![HTXSNV 2021](https://user-images.githubusercontent.com/82578024/172732470-c7a3d22f-6eca-479c-941a-e3a14a5fd502.jpg)
 ![12 01 2013](https://user-images.githubusercontent.com/82578024/163569051-74043240-c5c3-41d0-aa09-02fe04c938f5.jpg)
 ![13 05 2014](https://user-images.githubusercontent.com/82578024/163569071-648de4c2-52f1-42b3-a075-423b1f7ddb9c.jpg)
 ![15 02 2014](https://user-images.githubusercontent.com/82578024/163569091-92bf8629-1030-4678-b33d-5622736ac46f.jpg)
@@ -51,6 +52,14 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 15 | Lê Minh Trí | | X |  | 20.08.2012 |
 16 | Dương Minh Toàn | | X | | 12.07.2016 |
 17 |Phan Thị Thúy Phương |||X|03.10.2021|  
+
+# Thành tích Chi bộ #
+
+- **Năm 2021: HTXSNV, đạt thành tích tiêu biểu trong thực hiện chỉ thị số 05-CT/TW của Bộ Chính trị (2016-2021) (HU khen)**
+- **Năm 2020: HTXSNV**
+- **Năm 2019: HTTNV**
+- **Năm 2018: HTTNV**
+- **Năm 2017: HTXSNV, đạt “Trong sạch – Vững mạnh” Tiêu biểu 5 năm liền (Năm 2013 – 2017) (HU khen)**
 
 # CHƯƠNG TRÌNH ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
 
