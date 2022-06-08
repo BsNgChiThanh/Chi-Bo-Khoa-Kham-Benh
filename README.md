@@ -1,17 +1,13 @@
-# Chi-Bo-Khoa-Kham-Benh
-Chi bộ khoa khám bệnh
+# Chi bộ Khoa Khám bệnh
 
-# 👋Chi bộ Khoa Khám bệnh
+ ## Trực thuộc Đảng bộ Bệnh viện Đa khoa Đầm Dơi!
 
- ## 👯Trực thuộc Đảng bộ Bệnh viện Đa khoa Đầm Dơi!
+**[Thẻ đảng viên](https://pwht-my.sharepoint.com/personal/free426_office365vn_online/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffree426%5Foffice365vn%5Fonline%2FDocuments%2FT%C3%A0i%20li%E1%BB%87u%2FChi%5Fbo%5FKKB%2FTh%E1%BA%BB%20%C4%91%E1%BA%A3ng%20vi%C3%AAn%20Chi%20b%E1%BB%99%20KKB&ga=1)**
 
-**🌱Một số hoạt động của chi bộ:**
+**[Kiểm tra thẻ đảng viên](https://pwht-my.sharepoint.com/personal/free426_office365vn_online/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffree426%5Foffice365vn%5Fonline%2FDocuments%2FT%C3%A0i%20li%E1%BB%87u%2FChi%5Fbo%5FKKB%2FKi%E1%BB%83m%20tra%20th%E1%BA%BB%20%C4%91%E1%BA%A3ng&ga=1)**  
 
-**🌱Thẻ đảng viên:** https://bit.ly/3EcDnRO
+**[Hình ảnh thành tích Chi bộ](https://pwht-my.sharepoint.com/personal/free426_office365vn_online/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffree426%5Foffice365vn%5Fonline%2FDocuments%2FT%C3%A0i%20li%E1%BB%87u%2FChi%5Fbo%5FKKB%2FH%C3%ACnh%20%E1%BA%A3nh%20th%C3%A0nh%20t%C3%ADch%20Chi%20b%E1%BB%99%20khoa%20kh%C3%A1m%20b%E1%BB%87nh&ga=1)**
 
-**🌱Kiểm tra thẻ đảng viên:** https://bit.ly/3uv468T  
-
-**🌱Hình ảnh thành tích Chi bộ:** https://bit.ly/3EjnrNL 
 ![HTXSNV 2021](https://user-images.githubusercontent.com/82578024/172732470-c7a3d22f-6eca-479c-941a-e3a14a5fd502.jpg)
 ![12 01 2013](https://user-images.githubusercontent.com/82578024/163569051-74043240-c5c3-41d0-aa09-02fe04c938f5.jpg)
 ![13 05 2014](https://user-images.githubusercontent.com/82578024/163569071-648de4c2-52f1-42b3-a075-423b1f7ddb9c.jpg)
