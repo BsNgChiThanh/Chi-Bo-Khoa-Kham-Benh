@@ -62,6 +62,25 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 - **Năm 2014: HTXSNV**
 - **Năm 2013: HTXSNV**
 
+# LỄ KẾT NẠP ĐẢNG VIÊN #
+
+Trang trí hội trường:
+
+Nội dung buổi lễ:
+
+1. Phần chào cờ [hát Quốc ca và Quốc tế ca](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EW8IvGMJ9HBBttB6MvVPvIkBdZxPK9VvYUP5JDWlRENzLQ?e=aGDb9S), tuyên bố lý do, giới thiệu đại biểu.
+2. Đảng viên mới đọc đơn xin vào đảng "mẫu 1" (không quan trọng)
+3. Đảng viên giới thiệu quần chúng vào đảng đọc "giấy giới thiệu của người vào vào đảng mẫu 3" (không quan trọng)
+4. Đại diện cấp ủy đọc và trao quyết định kết nạp đảng viên (tất cả đứng lên hướng về Quốc kì và ảnh Bác).
+5.	Đảng viên mới đọc [lời tuyên thệ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EffgwekI81JEnLrumqvvB_oB-E3y64oG5LC7QaSH0Cr9PQ?e=8NPm9n) (lên phía trên, quay mặt về ảnh Bác và Quốc kì, đọc to, mổi lần đọc đến "xin thề" thì giơ tay phải cao lên!.
+6.	Đại diện chi bộ nói rõ [nhiệm vụ và quyền hạn của người đảng viên, nhiệm vụ của chi bộ và phân công đảng viên chính thức giúp đỡ đảng viên dự bị](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EUPUqg4fMZ9Ori49XI7QZscBtIXPeF07ovAskl2v4KF-SA?e=XS1TIW).
+7.	Đại diện đảng ủy phát biểu ý kiến (nếu có).
+8.	Bế mạc [hát Quốc ca và Quốc tế ca](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EW8IvGMJ9HBBttB6MvVPvIkBdZxPK9VvYUP5JDWlRENzLQ?e=aGDb9S)
+
+Nếu có nhiều đảng viên kết nạp cùng một lúc thì kết nạp từng người một, quay lại bước số 2 để kết nạp người khác, cuối cùng là bước 8 bế mạc.
+
+[Kịch bản buổi lễ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQG-xabKw45OitC_-1ZB-VUB01FcKxoBvRR4PYGfaQ0z0w?e=cRAgBd)
+
 # CHƯƠNG TRÌNH ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
 
 1. [Văn kiện](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EbdRJDJuf8dCiOhBF06jYS4BorPKeFrJ6PMXQJRvg6TxxQ?e=Uvrghi)
