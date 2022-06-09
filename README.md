@@ -56,6 +56,10 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 - **Năm 2019: HTTNV**
 - **Năm 2018: HTTNV**
 - **Năm 2017: HTXSNV, đạt “Trong sạch – Vững mạnh” Tiêu biểu 5 năm liền (Năm 2013 – 2017) (HU khen)**
+- **Năm 2016: HTXSNV**
+- **Năm 2015: HTXSNV**
+- **Năm 2014: HTXSNV**
+- **Năm 2013: HTXSNV**
 
 # CHƯƠNG TRÌNH ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
 
