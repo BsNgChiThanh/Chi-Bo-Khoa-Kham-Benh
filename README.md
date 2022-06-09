@@ -47,7 +47,8 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 14 | Quách Kim Bấu | | | X | 02.09.2020 |
 15 | Lê Minh Trí | | X |  | 20.08.2012 |
 16 | Dương Minh Toàn | | X | | 12.07.2016 |
-17 |Phan Thị Thúy Phương |||X|03.10.2021|  
+17 |Phan Thị Thúy Phương |||X|03.10.2021|
+18 |Đặng Nga Mi |||X|03.6.2022|  
 
 # Thành tích Chi bộ #
 
