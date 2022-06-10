@@ -27,7 +27,7 @@
 ![06 04 2021](https://user-images.githubusercontent.com/82578024/163569028-7d03fdc2-e6c1-4166-b736-7395f1b60f13.jpg)
 ![21 01 -2018](https://user-images.githubusercontent.com/82578024/163569308-ed6c18bb-3a29-4945-9c6e-c86af9941f0f.jpg)
 
-# Danh sách Chi bộ Khoa Khám bệnh:
+# DANH SÁCH CHI BỘ #:
 
 STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng | Trung cấp chính trị, quản lý nhà nước
 -- | -- | -- | -- | -- | -- | --
@@ -50,7 +50,7 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 17 |Phan Thị Thúy Phương |||X|03.10.2021|
 18 |Đặng Nga Mi |||X|03.6.2022|  
 
-# Thành tích Chi bộ #
+# THÀNH TÍCH CHI BỘ #
 
 - **Năm 2021: HTXSNV, đạt thành tích tiêu biểu trong thực hiện chỉ thị số 05-CT/TW của Bộ Chính trị (2016-2021) (HU khen)**
 - **Năm 2020: HTXSNV**
