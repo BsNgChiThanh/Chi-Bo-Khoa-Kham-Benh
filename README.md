@@ -79,7 +79,7 @@ Nội dung buổi lễ:
 
 Nếu có nhiều đảng viên kết nạp cùng một lúc thì kết nạp từng người một, quay lại bước số 2 để kết nạp người khác, cuối cùng là bước 8 bế mạc.
 
-[Kịch bản buổi lễ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQG-xabKw45OitC_-1ZB-VUB01FcKxoBvRR4PYGfaQ0z0w?e=cRAgBd)
+[Kịch bản buổi lễ]([https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQG-xabKw45OitC_-1ZB-VUB01FcKxoBvRR4PYGfaQ0z0w?e=cRAgBd](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EdmHacRvSjlAtRg152MPU7oB3VoZ6R7aFjbqe7d83EtxFw?e=eNOhQx)
 
 # CHƯƠNG TRÌNH ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
 
