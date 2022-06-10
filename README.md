@@ -64,9 +64,9 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 
 # LỄ KẾT NẠP ĐẢNG VIÊN #
 
-Trang trí hội trường:
+**Trang trí hội trường: Trên cùng là khẩu hiệu “Đảng Cộng sản Việt Nam quang vinh muôn năm”; cờ Đảng, cờ Tổ quốc, tượng hoặc ảnh Chủ tịch Hồ Chí Minh (bên trái), ảnh Mác - Lênin (bên phải), tiêu đề: “Lễ kết nạp đảng viên”.**
 
-Nội dung buổi lễ:
+**Nội dung buổi lễ:**
 
 1. Phần chào cờ [hát Quốc ca và Quốc tế ca](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EW8IvGMJ9HBBttB6MvVPvIkBdZxPK9VvYUP5JDWlRENzLQ?e=aGDb9S), tuyên bố lý do, giới thiệu đại biểu.
 2. Đảng viên mới đọc đơn xin vào đảng "mẫu 1" (không quan trọng)
@@ -79,7 +79,17 @@ Nội dung buổi lễ:
 
 Nếu có nhiều đảng viên kết nạp cùng một lúc thì kết nạp từng người một, quay lại bước số 2 để kết nạp người khác, cuối cùng là bước 8 bế mạc.
 
-[Kịch bản buổi lễ]([https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQG-xabKw45OitC_-1ZB-VUB01FcKxoBvRR4PYGfaQ0z0w?e=cRAgBd](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EdmHacRvSjlAtRg152MPU7oB3VoZ6R7aFjbqe7d83EtxFw?e=eNOhQx)
+[Kịch bản buổi lễ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EdmHacRvSjlAtRg152MPU7oB3VoZ6R7aFjbqe7d83EtxFw?e=CmLqOV)
+
+# CHUYỂN SINH HOẠT ĐẢNG #
+
+Đối với viên chức nghỉ hưu, nghỉ việc thì làm thủ tục chuyển sinh hoạt đảng không quá 60 ngày kể từ ngày nghỉ.
+
+Về chi bộ trực thuộc phải làm thủ tục:
+
+1. Người chuyển sinh hoạt viết [bản tự phê](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EVE5IKD2oMtLtboZ0OfuAyoBbN002nTgzvk4r255vm2ftw?e=WideFh)
+2. Họp chi bộ, viết [biên bản trích ngang](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EcPM1XeB5q5Np0edp_9Z8dkB2iadITTyrE42veswo-bS5w?e=0bpGAt)
+3. Photo công chứng giấy quyết định nghỉ việc hoặc nghỉ hưu...
 
 # CHƯƠNG TRÌNH ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
 
