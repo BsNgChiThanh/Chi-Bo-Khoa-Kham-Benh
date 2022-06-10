@@ -2,11 +2,11 @@
 
  ## Trực thuộc Đảng bộ Bệnh viện Đa khoa Đầm Dơi!
 
-**[Thẻ đảng viên](https://pwht-my.sharepoint.com/personal/free426_office365vn_online/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffree426%5Foffice365vn%5Fonline%2FDocuments%2FT%C3%A0i%20li%E1%BB%87u%2FChi%5Fbo%5FKKB%2FTh%E1%BA%BB%20%C4%91%E1%BA%A3ng%20vi%C3%AAn%20Chi%20b%E1%BB%99%20KKB&ga=1)**
+**[Thẻ đảng viên](https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EsAJ6Z-IchBMt-Wdw3xUcgcBNE3QoeVc7kjRTpckYgr9jQ?e=kaVgud)**
 
-**[Kiểm tra thẻ đảng viên](https://pwht-my.sharepoint.com/personal/free426_office365vn_online/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffree426%5Foffice365vn%5Fonline%2FDocuments%2FT%C3%A0i%20li%E1%BB%87u%2FChi%5Fbo%5FKKB%2FKi%E1%BB%83m%20tra%20th%E1%BA%BB%20%C4%91%E1%BA%A3ng&ga=1)**  
+**[Kiểm tra thẻ đảng viên](https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EvC19VthJXRIjSYt0E5YWYEBry9mbaaAttCfeIeABeH7wg?e=vLKq3z)**  
 
-**[Hình ảnh thành tích Chi bộ](https://pwht-my.sharepoint.com/personal/free426_office365vn_online/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffree426%5Foffice365vn%5Fonline%2FDocuments%2FT%C3%A0i%20li%E1%BB%87u%2FChi%5Fbo%5FKKB%2FH%C3%ACnh%20%E1%BA%A3nh%20th%C3%A0nh%20t%C3%ADch%20Chi%20b%E1%BB%99%20khoa%20kh%C3%A1m%20b%E1%BB%87nh&ga=1)**
+**[Hình ảnh thành tích Chi bộ](https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/ElLm4nnE4NxClvxQMLCr_ZEBpTVXlvr0__UbHm9hyt_ZtQ?e=t63zN2)**
 
 ![HTXSNV 2021](https://user-images.githubusercontent.com/82578024/172732470-c7a3d22f-6eca-479c-941a-e3a14a5fd502.jpg)
 ![12 01 2013](https://user-images.githubusercontent.com/82578024/163569051-74043240-c5c3-41d0-aa09-02fe04c938f5.jpg)
@@ -27,14 +27,14 @@
 ![06 04 2021](https://user-images.githubusercontent.com/82578024/163569028-7d03fdc2-e6c1-4166-b736-7395f1b60f13.jpg)
 ![21 01 -2018](https://user-images.githubusercontent.com/82578024/163569308-ed6c18bb-3a29-4945-9c6e-c86af9941f0f.jpg)
 
-# DANH SÁCH CHI BỘ #:
+# DANH SÁCH CHI BỘ: #
 
 STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng | Trung cấp chính trị, quản lý nhà nước
 -- | -- | -- | -- | -- | -- | --
-01 | Nguyễn Chí Thành | Trưởng khoa Cấp cứu | X |  | 30.04.2008 | X 
+01 | Nguyễn Chí Thành | Trưởng khoa Cấp cứu | X |  | 30.4.2008 | X 
 02 | Phạm Văn Nhân | Phó khoa Khám bệnh | X |  | 10.11.2012 | X 
-03 | Lê Thị Lan | ĐD trưởng khoa Khám bệnh | | X | 30.04.2010 | X
-04 | Trang Thành Lập | Trưởng khoa Khám bệnh | X |  | 03.07.1998 | X 
+03 | Lê Thị Lan | ĐD trưởng khoa Khám bệnh | | X | 30.4.2010 | X
+04 | Trang Thành Lập | Trưởng khoa Khám bệnh | X |  | 03.7.1998 | X 
 05 | Võ Minh Hiếu |Phó khoa Cấp cứu | X |  | 03.11.2004 | X
 06 | Trịnh Bảo Trung | | X | |03.11.2016| 
 07 | Huỳnh Diễm Thúy | | | X | 03.11.2007 |
@@ -44,9 +44,9 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 11 | Thang Hoa Xuân | | | X | 03.10.2019 |
 12 | Võ Cẩm Chiêu | | | X | 03.10.2019 |
 13 | Trương Hồng Phương | | | X | 06.10.2018 |
-14 | Quách Kim Bấu | | | X | 02.09.2020 |
-15 | Lê Minh Trí | | X |  | 20.08.2012 |
-16 | Dương Minh Toàn | | X | | 12.07.2016 |
+14 | Quách Kim Bấu | | | X | 02.9.2020 |
+15 | Lê Minh Trí | | X |  | 20.8.2012 |
+16 | Dương Minh Toàn | | X | | 12.7.2016 |
 17 |Phan Thị Thúy Phương |||X|03.10.2021|
 18 |Đặng Nga Mi |||X|03.6.2022|  
 
@@ -101,7 +101,9 @@ Về chi bộ trực thuộc phải làm thủ tục:
 6. [Quốc ca và Quốc tế ca có lời](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EW8IvGMJ9HBBttB6MvVPvIkBdZxPK9VvYUP5JDWlRENzLQ?e=iaDyBE)
 7. [Quốc ca và Quốc tế ca không lời](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/Ea_MUFDliCZGqFSpAackfVUB3s_HAkZ5z7z9NtWwqqtkGw?e=I6r1mK)
 
-# HÌNH ẢNH HOẠT ĐỘNG CHI BỘ #
+# [HÌNH ẢNH HOẠT ĐỘNG CHI BỘ](https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EvfoxZHPIt9OkV5jxtJv_MQBJp9EgjsSJxb73P_ToUPEwA?e=1uYdr8) #
+
+![1](https://user-images.githubusercontent.com/82578024/173048773-7446c7a1-258e-4b55-8417-7dd15d65c629.jpg)
 
 ![FB_IMG_1591964728860](https://user-images.githubusercontent.com/82578024/164394512-a61753ee-0ff1-43bb-8aaf-92575eda718e.jpg)
 
