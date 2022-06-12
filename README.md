@@ -65,7 +65,7 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 # THỦ TỤC KẾT NẠP ĐẢNG #
 
 1. [Mẫu 1–KNĐ KNĐ Đơn xin vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EWSA_dc-CwNLhi1lg2LKum8BwnTH2YzZ2NfGUaT_P7GMkQ?e=2BzRe8)
-2. [Mẫu 2–KNĐ Lý lịch người xin vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EZ9hAPR9Q3hCozGFX08g-H8BtMDrZS3HnHZR5XVu2sAhGQ?e=hXKxqW)
+2. [Mẫu 2–KNĐ Lý lịch người xin vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EZ9hAPR9Q3hCozGFX08g-H8BtMDrZS3HnHZR5XVu2sAhGQ?e=hXKxqW), hướng dẫn viết [lý lịch người xin vào đảng](https://thuvienphapluat.vn/tintuc/vn/thoi-su-phap-luat/tu-van-phap-luat/35941/huong-dan-khai-ly-lich-cua-nguoi-xin-vao-dang)
 3. [Mẫu 3–KNĐ Giấy giới thiệu người vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EcIcg3Ynfn5HvIU6jqUtSA4BuDEdIEpdB3c6vhq10Vb5_A?e=M5olJ6) (2 đảng viên chính thức giới thiệu)
 4. [Mẫu 3-213 Phiếu nhận xét Của Chi ủy nơi cư trú đối với quần chúng xin vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EcyTBIwOhZZElvu0BdVx6yABUAIdK12aE-gBosB_Z-7zLw?e=UiWuV7)
 5. [Mẫu 4-KNĐ Nghị quyết giới thiệu đoàn viên ưu tú vào Đảng của BCH Đoàn ủy](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EZOamuC3Zm1IgKzpQ0bDim0BAyPoKo28woHJ9P294B8-ag?e=yfJ4K2)
