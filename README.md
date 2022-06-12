@@ -31,10 +31,10 @@
 
 STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng | Trung cấp chính trị, quản lý nhà nước
 -- | -- | -- | -- | -- | -- | --
-01 | Nguyễn Chí Thành | Trưởng khoa Cấp cứu | X |  | 30.4.2008 | X 
+01 | Nguyễn Chí Thành | Trưởng khoa Cấp cứu | X |  | 30.04.2008 | X 
 02 | Phạm Văn Nhân | Phó khoa Khám bệnh | X |  | 10.11.2012 | X 
-03 | Lê Thị Lan | ĐD trưởng khoa Khám bệnh | | X | 30.4.2010 | X
-04 | Trang Thành Lập | Trưởng khoa Khám bệnh | X |  | 03.7.1998 | X 
+03 | Lê Thị Lan | ĐD trưởng khoa Khám bệnh | | X | 30.04.2010 | X
+04 | Trang Thành Lập | Trưởng khoa Khám bệnh | X |  | 03.07.1998 | X 
 05 | Võ Minh Hiếu |Phó khoa Cấp cứu | X |  | 03.11.2004 | X
 06 | Trịnh Bảo Trung | | X | |03.11.2016| 
 07 | Huỳnh Diễm Thúy | | | X | 03.11.2007 |
@@ -44,11 +44,11 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 11 | Thang Hoa Xuân | | | X | 03.10.2019 |
 12 | Võ Cẩm Chiêu | | | X | 03.10.2019 |
 13 | Trương Hồng Phương | | | X | 06.10.2018 |
-14 | Quách Kim Bấu | | | X | 02.9.2020 |
-15 | Lê Minh Trí | | X |  | 20.8.2012 |
-16 | Dương Minh Toàn | | X | | 12.7.2016 |
+14 | Quách Kim Bấu | | | X | 02.09.2020 |
+15 | Lê Minh Trí | | X |  | 20.08.2012 |
+16 | Dương Minh Toàn | | X | | 12.07.2016 |
 17 |Phan Thị Thúy Phương |||X|03.10.2021|
-18 |Đặng Nga Mi |||X|03.6.2022|  
+18 |Đặng Nga Mi |||X|03.06.2022|  
 
 # THÀNH TÍCH CHI BỘ #
 
