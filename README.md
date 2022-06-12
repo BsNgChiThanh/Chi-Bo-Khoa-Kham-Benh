@@ -73,6 +73,19 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 7. Mẫu 5-KNĐ Tổng hợp ý kiến nhận xét của các đoàn thể chính trị - xã hội nơi người vào Đảng sinh hoạt và chi uỷ nơi cư trú đối với người vào Đảng
 8. Mẫu 6-KNĐ Nghị quyết đề nghị kết nạp đảng viên của chi bộ
 9. Mẫu 8-KNĐ Nghị quyết đề nghị kết nạp đảng viên của Đảng ủy
+10. Chứng nhận học lớp cảm tình Đảng (bản gốc)
+11. Các giấy tờ có công chứng:
+
+- Bằng tốt nghiệp 
+- Bằng tin học
+- Bằng Ngoại ngữ
+- Bằng chuyên môn
+- Các văn bằng khác (nếu có)
+
+Trường hợp là học sinh đủ 18 tuổi, làm thủ tục phát triển Đảng phải có các loại giấy tờ có công chứng sau:
+
+- Giấy khen học sinh giỏi
+- Chứng nhận học sinh giỏi vòng Tỉnh, Quốc gia (nếu có)
 
 # LỄ KẾT NẠP ĐẢNG VIÊN #
 
@@ -92,6 +105,8 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 Nếu có nhiều đảng viên kết nạp cùng một lúc thì kết nạp từng người một, quay lại bước số 2 để kết nạp người khác, cuối cùng là bước 8 bế mạc.
 
 [Kịch bản buổi lễ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EdmHacRvSjlAtRg152MPU7oB3VoZ6R7aFjbqe7d83EtxFw?e=CmLqOV)
+
+# CHUYỂN ĐẢNG CHÍNH THỨC #
 
 # CHUYỂN SINH HOẠT ĐẢNG #
 
