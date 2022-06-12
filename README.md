@@ -66,7 +66,7 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 
 1. Mẫu 1–KNĐ KNĐ Đơn xin vào Đảng
 2. Mẫu 2–KNĐ Lý lịch người xin vào Đảng
-3. Mẫu 3–KNĐ Giấy giới thiệu người vào Đảng
+3. Mẫu 3–KNĐ Giấy giới thiệu người vào Đảng (2 đảng viên chính thức giới thiệu)
 4. Mẫu 3-213 Phiếu nhận xét Của Chi ủy nơi cư trú đối với quần chúng xin vào Đảng
 5. Mẫu 4-KNĐ Nghị quyết giới thiệu đoàn viên ưu tú vào Đảng
 6. Mẫu 4A-KNĐ Nghị quyết giới thiệu đoàn viên công đoàn vào Đảng
@@ -107,6 +107,16 @@ Nếu có nhiều đảng viên kết nạp cùng một lúc thì kết nạp t�
 [Kịch bản buổi lễ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EdmHacRvSjlAtRg152MPU7oB3VoZ6R7aFjbqe7d83EtxFw?e=CmLqOV)
 
 # CHUYỂN ĐẢNG CHÍNH THỨC #
+
+1. Mẫu 10-KNĐ Bản tự kiểm điểm của đảng viên dự bị
+2. Mẫu 11-KNĐ Bản tự nhận xét đảng viên dự bị (2 đảng viên dìu dắt nhận xét)
+3. Mẫu 3-213 Phiếu nhận xét đảng viên đang công tác thường xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú
+4. Mẫu 4-KNĐ Nghị quyết của Đoàn thanh niên thống nhất chuyển đảng chính thức
+5. Mẫu 4A-KNĐ Nghị quyết của công đoàn thống nhất chuyển đảng chính thức
+6. Mẫu 12-KNĐ Tổng hợp ý kiến nhận xét của các đoàn thể chính trị - xã hội nơi đảng viên dự bị sinh hoạt  và chi ủy nơi cư trú đối với đảng viên dự bị
+7. Mẫu 13-KNĐ Nghị quyết Đề nghị công nhận đảng viên chính thức (của chi bộ)
+8. Mẫu 15-KNĐ Nghị quyết đề nghị công nhận đảng viên chính thức (của Đảng ủy)
+9. Chứng nhận học lớp đảng viên mới (bản gốc)
 
 # CHUYỂN SINH HOẠT ĐẢNG #
 
