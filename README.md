@@ -132,7 +132,7 @@ Về chi bộ trực thuộc phải làm thủ tục:
 
 Gởi về Đảng ủy sớm nhất để Đảng ủy hoàn thành thủ tục gởi về Huyện ủy trước 60 ngày kể từ ngày nghỉ việc hoặc nghỉ hưu...
 
-# CHƯƠNG TRÌNH ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
+# ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
 
 1. [Văn kiện](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EbdRJDJuf8dCiOhBF06jYS4BorPKeFrJ6PMXQJRvg6TxxQ?e=Uvrghi)
 2. [Kịch bản đại hội](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EXnFtF9sd5lNiaIV6w5PQ6QBzb04dagkMPqXRvIx8s1Ckw?e=pOkomN)
