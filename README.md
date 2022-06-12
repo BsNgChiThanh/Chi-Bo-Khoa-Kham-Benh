@@ -111,12 +111,13 @@ Nếu có nhiều đảng viên kết nạp cùng một lúc thì kết nạp t�
 1. Mẫu 10-KNĐ Bản tự kiểm điểm của đảng viên dự bị
 2. Mẫu 11-KNĐ Bản tự nhận xét đảng viên dự bị (2 đảng viên dìu dắt nhận xét)
 3. Mẫu 3-213 Phiếu nhận xét đảng viên đang công tác thường xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú
-4. Mẫu 4-KNĐ Nghị quyết của Đoàn thanh niên thống nhất chuyển đảng chính thức
-5. Mẫu 4A-KNĐ Nghị quyết của công đoàn thống nhất chuyển đảng chính thức
+4. Mẫu 12A-KNĐ Ý kiến nhận xét của Đoàn thanh niên về đảng viên dự bị 
+5. Mẫu 12B-KNĐ Ý kiến nhận xét của công đoàn cơ sở về đảng viên dự bị  
 6. Mẫu 12-KNĐ Tổng hợp ý kiến nhận xét của các đoàn thể chính trị - xã hội nơi đảng viên dự bị sinh hoạt  và chi ủy nơi cư trú đối với đảng viên dự bị
 7. Mẫu 13-KNĐ Nghị quyết Đề nghị công nhận đảng viên chính thức (của chi bộ)
-8. Mẫu 15-KNĐ Nghị quyết đề nghị công nhận đảng viên chính thức (của Đảng ủy)
-9. Chứng nhận học lớp đảng viên mới (bản gốc)
+8. Mẫu 14-KNĐ. Báo cáo của đảng ủy bộ phận thẩm định nghị quyết của chi bộ đề nghị công nhận đảng viên chính thức
+9. Mẫu 15-KNĐ Nghị quyết đề nghị công nhận đảng viên chính thức (của Đảng ủy)
+10. Chứng nhận học lớp đảng viên mới (bản gốc)
 
 # CHUYỂN SINH HOẠT ĐẢNG #
 
