@@ -99,7 +99,7 @@ Trường hợp là học sinh đủ 18 tuổi, làm thủ tục phát triển �
 1. Phần chào cờ [hát Quốc ca và Quốc tế ca](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EW8IvGMJ9HBBttB6MvVPvIkBdZxPK9VvYUP5JDWlRENzLQ?e=aGDb9S), tuyên bố lý do, giới thiệu đại biểu.
 2. Đảng viên mới đọc đơn xin vào đảng "mẫu 1" (không quan trọng)
 3. Đảng viên giới thiệu quần chúng vào đảng đọc "giấy giới thiệu của người vào vào đảng mẫu 3" (không quan trọng)
-4. Đại diện cấp ủy đọc và trao quyết định kết nạp đảng viên_(Mẫu 9-KNĐ), (tất cả đứng lên hướng về Quốc kì và ảnh Bác). 
+4. Đại diện cấp ủy đọc và trao quyết định kết nạp đảng viên_[Mẫu 9-KNĐ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EZ9Gu-kzaVNNp1sIuq5UHNUBP-nypj9-hS4hD2v_1vWWbQ?e=O5DkHl), (tất cả đứng lên hướng về Quốc kì và ảnh Bác). 
 5. Đảng viên mới đọc [lời tuyên thệ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EffgwekI81JEnLrumqvvB_oB-E3y64oG5LC7QaSH0Cr9PQ?e=8NPm9n) (lên phía trên, quay mặt về ảnh Bác và Quốc kì, đọc to, mổi lần đọc đến "xin thề" thì giơ tay phải cao lên, bàn tay phải nắm chặt lại!.
 6. Đại diện chi bộ nói rõ [nhiệm vụ và quyền hạn của người đảng viên, nhiệm vụ của chi bộ và phân công đảng viên chính thức giúp đỡ đảng viên dự bị](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EUPUqg4fMZ9Ori49XI7QZscBtIXPeF07ovAskl2v4KF-SA?e=XS1TIW).
 7. Đại diện đảng ủy phát biểu ý kiến (nếu có).
@@ -113,13 +113,13 @@ Nếu có nhiều đảng viên kết nạp cùng một lúc thì kết nạp t�
 
 1. [Mẫu 10-KNĐ Bản tự kiểm điểm của đảng viên dự bị](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EddSFVsii0JEiW1_v_tWrG8BJuT6cKRGOGafQS8C-5Ib9Q?e=vr95Sg)
 2. [Mẫu 11-KNĐ Bản tự nhận xét đảng viên dự bị](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/ES0ceMnRjiRIkZ9rbkLvZGkBN1FGiFxyc1JKqVsfr6Stgg?e=ArqqHl) (2 đảng viên dìu dắt nhận xét)
-3. Mẫu 3-213 Phiếu nhận xét đảng viên đang công tác thường xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú
-4. Mẫu 12A-KNĐ Ý kiến nhận xét của BCH Đoàn ủy về đảng viên dự bị 
-5. Mẫu 12B-KNĐ Ý kiến nhận xét của BCH Công đoàn cơ sở về đảng viên dự bị  
-6. Mẫu 12-KNĐ Tổng hợp ý kiến nhận xét của các đoàn thể chính trị - xã hội nơi đảng viên dự bị sinh hoạt  và chi ủy nơi cư trú đối với đảng viên dự bị
-7. Mẫu 13-KNĐ Nghị quyết Đề nghị công nhận đảng viên chính thức (của chi bộ)
-8. Mẫu 14-KNĐ. Báo cáo của đảng ủy bộ phận thẩm định nghị quyết của chi bộ đề nghị công nhận đảng viên chính thức
-9. Mẫu 15-KNĐ Nghị quyết đề nghị công nhận đảng viên chính thức (của Đảng ủy)
+3. [Mẫu 3-213 Phiếu nhận xét đảng viên đang công tác thường xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/Eew2CUBElYdPscJDuc4hczcBp5H6252BMyB_Ify3pjZSDw?e=K1yA7F)
+4. [Mẫu 12A-KNĐ Ý kiến nhận xét của BCH Đoàn ủy về đảng viên dự bị](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EXgswOgi41tMr8ANACAJ8r8BfxMGPv8Js85ujJ0wjlJm1A?e=8CdroJ)
+5. [Mẫu 12B-KNĐ Ý kiến nhận xét của BCH Công đoàn cơ sở về đảng viên dự bị](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/ER1LsBFl7wlPnptu68Y18W0BMCx8G69wCFExRT-fLTYTZw?e=VVAqjA)  
+6. [Mẫu 12-KNĐ Tổng hợp ý kiến nhận xét của các đoàn thể chính trị - xã hội nơi đảng viên dự bị sinh hoạt và chi ủy nơi cư trú đối với đảng viên dự bị](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EaLMBJn-o7pHkNAIHaGhSo4BZBWOy2G8OcNGB60Nb6c_1Q?e=aPxQRv)
+7. [Mẫu 13-KNĐ Nghị quyết Đề nghị công nhận đảng viên chính thức](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EdhDwnKSwoRGgUAOAvl__QMBydQ8SDz0_4pKCpR93rZaiQ?e=eKJwUf) (của chi bộ)
+8. [Mẫu 14-KNĐ. Báo cáo của đảng ủy bộ phận thẩm định nghị quyết của chi bộ đề nghị công nhận đảng viên chính thức](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/EvH5u8NV8qlAr0zAeE_QPooBcJ2Rb0h0u2jpX4lcTCVW-Q?e=3WAPJO)
+9. [Mẫu 15-KNĐ Nghị quyết đề nghị công nhận đảng viên chính thức](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EZB1QFHPQZFDoP-6_RScTR4BfJZ_WfsmqouGQJQJdv4qTQ?e=jeisCH) (của Đảng ủy)
 10. Chứng nhận học lớp đảng viên mới (bản gốc)
 
 # CHUYỂN SINH HOẠT ĐẢNG #
