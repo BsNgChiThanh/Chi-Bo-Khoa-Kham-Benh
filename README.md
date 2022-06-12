@@ -111,8 +111,8 @@ Nếu có nhiều đảng viên kết nạp cùng một lúc thì kết nạp t�
 
 # Một số mẫu khác của đảng viên #
 
-1. Mẫu 1-HSĐV, hướng dẫn [viết lý lịch đảng viên](https://thuvienphapluat.vn/tintuc/vn/thoi-su-phap-luat/tu-van-phap-luat/31379/huong-dan-khai-ly-lich-dang-vien)
-2. 
+1. Mẫu 1-HSĐV: Lý lịch đảng viên, hướng dẫn [viết lý lịch đảng viên](https://thuvienphapluat.vn/tintuc/vn/thoi-su-phap-luat/tu-van-phap-luat/31379/huong-dan-khai-ly-lich-dang-vien)
+2. Tờ khai thông tin đảng viên.
 
 # CHUYỂN ĐẢNG CHÍNH THỨC #
 
