@@ -97,7 +97,7 @@ Trường hợp là học sinh đủ 18 tuổi, làm thủ tục phát triển �
 1. Phần chào cờ [hát Quốc ca và Quốc tế ca](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EW8IvGMJ9HBBttB6MvVPvIkBdZxPK9VvYUP5JDWlRENzLQ?e=aGDb9S), tuyên bố lý do, giới thiệu đại biểu.
 2. Đảng viên mới đọc đơn xin vào đảng "mẫu 1" (không quan trọng)
 3. Đảng viên giới thiệu quần chúng vào đảng đọc "giấy giới thiệu của người vào vào đảng mẫu 3" (không quan trọng)
-4. Đại diện cấp ủy đọc và trao quyết định kết nạp đảng viên (tất cả đứng lên hướng về Quốc kì và ảnh Bác).
+4. Đại diện cấp ủy đọc và trao quyết định kết nạp đảng viên_(Mẫu 9-KNĐ), (tất cả đứng lên hướng về Quốc kì và ảnh Bác). 
 5. Đảng viên mới đọc [lời tuyên thệ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EffgwekI81JEnLrumqvvB_oB-E3y64oG5LC7QaSH0Cr9PQ?e=8NPm9n) (lên phía trên, quay mặt về ảnh Bác và Quốc kì, đọc to, mổi lần đọc đến "xin thề" thì giơ tay phải cao lên, bàn tay phải nắm chặt lại!.
 6. Đại diện chi bộ nói rõ [nhiệm vụ và quyền hạn của người đảng viên, nhiệm vụ của chi bộ và phân công đảng viên chính thức giúp đỡ đảng viên dự bị](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EUPUqg4fMZ9Ori49XI7QZscBtIXPeF07ovAskl2v4KF-SA?e=XS1TIW).
 7. Đại diện đảng ủy phát biểu ý kiến (nếu có).
