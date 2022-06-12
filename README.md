@@ -109,6 +109,11 @@ Nếu có nhiều đảng viên kết nạp cùng một lúc thì kết nạp t�
 
 [Kịch bản buổi lễ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EdmHacRvSjlAtRg152MPU7oB3VoZ6R7aFjbqe7d83EtxFw?e=CmLqOV)
 
+# Một số mẫu khác của đảng viên #
+
+1. Mẫu 1-HSĐV, hướng dẫn [viết lý lịch đảng viên](https://thuvienphapluat.vn/tintuc/vn/thoi-su-phap-luat/tu-van-phap-luat/31379/huong-dan-khai-ly-lich-dang-vien)
+2. 
+
 # CHUYỂN ĐẢNG CHÍNH THỨC #
 
 1. [Mẫu 10-KNĐ Bản tự kiểm điểm của đảng viên dự bị](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EddSFVsii0JEiW1_v_tWrG8BJuT6cKRGOGafQS8C-5Ib9Q?e=vr95Sg)
