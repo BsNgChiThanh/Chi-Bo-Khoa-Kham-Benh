@@ -128,6 +128,8 @@ Về chi bộ trực thuộc phải làm thủ tục:
 2. Họp chi bộ, viết [biên bản trích ngang](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EcPM1XeB5q5Np0edp_9Z8dkB2iadITTyrE42veswo-bS5w?e=0bpGAt)
 3. Photo công chứng giấy quyết định nghỉ việc hoặc nghỉ hưu...
 
+Gởi về Đảng ủy sớm nhất để Đảng ủy hoàn thành thủ tục gởi về Huyện ủy trước 60 ngày kêt từ ngày nghỉ việc hoặc nghỉ hưu...
+
 # CHƯƠNG TRÌNH ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
 
 1. [Văn kiện](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EbdRJDJuf8dCiOhBF06jYS4BorPKeFrJ6PMXQJRvg6TxxQ?e=Uvrghi)
