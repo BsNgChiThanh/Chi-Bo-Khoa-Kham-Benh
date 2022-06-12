@@ -64,18 +64,20 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 
 # THỦ TỤC KẾT NẠP ĐẢNG #
 
-1. Mẫu 1–KNĐ KNĐ Đơn xin vào Đảng
-2. Mẫu 2–KNĐ Lý lịch người xin vào Đảng
-3. Mẫu 3–KNĐ Giấy giới thiệu người vào Đảng (2 đảng viên chính thức giới thiệu)
-4. Mẫu 3-213 Phiếu nhận xét Của Chi ủy nơi cư trú đối với quần chúng xin vào Đảng
-5. Mẫu 4-KNĐ Nghị quyết giới thiệu đoàn viên ưu tú vào Đảng của BCH Đoàn ủy
-6. Mẫu 4A-KNĐ Nghị quyết giới thiệu đoàn viên ưu tú vào Đảng của BCH Công đoàn cơ sở
-7. Mẫu 5-KNĐ Tổng hợp ý kiến nhận xét của các đoàn thể chính trị - xã hội nơi người vào Đảng sinh hoạt và chi uỷ nơi cư trú đối với người vào Đảng
-8. Mẫu 6-KNĐ Nghị quyết đề nghị kết nạp đảng viên của chi bộ
-9. Mẫu 7-KNĐ Báo cáo đề nghị kết nạp đảng viên của Đảng ủy
-10. Mẫu 8-KNĐ Nghị quyết đề nghị kết nạp đảng viên của Đảng ủy
-11. Chứng nhận học lớp cảm tình Đảng (bản gốc)
-12. Các giấy tờ có công chứng:
+1. [Mẫu 1–KNĐ KNĐ Đơn xin vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EWSA_dc-CwNLhi1lg2LKum8BwnTH2YzZ2NfGUaT_P7GMkQ?e=2BzRe8)
+2. [Mẫu 2–KNĐ Lý lịch người xin vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EZ9hAPR9Q3hCozGFX08g-H8BtMDrZS3HnHZR5XVu2sAhGQ?e=hXKxqW)
+3. [Mẫu 3–KNĐ Giấy giới thiệu người vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EcIcg3Ynfn5HvIU6jqUtSA4BuDEdIEpdB3c6vhq10Vb5_A?e=M5olJ6) (2 đảng viên chính thức giới thiệu)
+4. [Mẫu 3-213 Phiếu nhận xét Của Chi ủy nơi cư trú đối với quần chúng xin vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EcyTBIwOhZZElvu0BdVx6yABUAIdK12aE-gBosB_Z-7zLw?e=UiWuV7)
+5. [Mẫu 4-KNĐ Nghị quyết giới thiệu đoàn viên ưu tú vào Đảng của BCH Đoàn ủy](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EZOamuC3Zm1IgKzpQ0bDim0BAyPoKo28woHJ9P294B8-ag?e=yfJ4K2)
+6. [Mẫu 4A-KNĐ Nghị quyết giới thiệu đoàn viên ưu tú vào Đảng của BCH Công đoàn cơ sở](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EcZ9XYo_do9Gh_OuqJTTfbABSBRRiiPVcu3RnO5XSKzZJw?e=rbC0TK)
+7. [Mẫu 5-KNĐ Tổng hợp ý kiến nhận xét của các đoàn thể chính trị - xã hội nơi người vào Đảng sinh hoạt và chi uỷ nơi cư trú đối với người vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EbWETF4PAyJGv74PpXSE9RUBGIC8OIMMTvi5KX-JIJh6RA?e=CWdaHk)
+8. [Mẫu 6-KNĐ Nghị quyết đề nghị kết nạp đảng viên của chi bộ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EU1EMGWxaQZLkTqWOUrDJkwBTlmSkDCWvG056nf-TZKikA?e=7x06fK)
+9. [Mẫu 7-KNĐ Báo cáo đề nghị kết nạp đảng viên của Đảng ủy](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EVzeDWpgVmxChUeIsykXIT4BfPCc8kxzKKnJcpp3BS86iA?e=CyV9MH)
+10. [Mẫu 8-KNĐ Nghị quyết đề nghị kết nạp đảng viên của Đảng ủy](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EfnYhGNsjj5NhEMBvMIALvwB0NPU6tyaMgEveoOICI8pRw?e=2oIcVm)
+11. [Báo cáo chính trị của quần chúng xin vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EbKHMytBsEFFhyw7lVwVHIAB2nupdaEa0--sNQCTPqlRvw?e=Yevqc8)
+12. Nếu quần chúng quá tuổi đoàn thì [viết biên bản họp tổ công đoàn, giới thiệu quần chúng vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EckNXRn7thJPvNxXKhFhYlYBBWD3FHuOl-H9PESLnz_7pA?e=rafyIL)
+13. Chứng nhận học lớp cảm tình Đảng (bản gốc)
+14. Các giấy tờ có công chứng:
 
 - Bằng tốt nghiệp 
 - Bằng tin học
@@ -109,8 +111,8 @@ Nếu có nhiều đảng viên kết nạp cùng một lúc thì kết nạp t�
 
 # CHUYỂN ĐẢNG CHÍNH THỨC #
 
-1. Mẫu 10-KNĐ Bản tự kiểm điểm của đảng viên dự bị
-2. Mẫu 11-KNĐ Bản tự nhận xét đảng viên dự bị (2 đảng viên dìu dắt nhận xét)
+1. [Mẫu 10-KNĐ Bản tự kiểm điểm của đảng viên dự bị](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EddSFVsii0JEiW1_v_tWrG8BJuT6cKRGOGafQS8C-5Ib9Q?e=vr95Sg)
+2. [Mẫu 11-KNĐ Bản tự nhận xét đảng viên dự bị](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/ES0ceMnRjiRIkZ9rbkLvZGkBN1FGiFxyc1JKqVsfr6Stgg?e=ArqqHl) (2 đảng viên dìu dắt nhận xét)
 3. Mẫu 3-213 Phiếu nhận xét đảng viên đang công tác thường xuyên giữ mối liên hệ với tổ chức đảng và nhân dân nơi cư trú
 4. Mẫu 12A-KNĐ Ý kiến nhận xét của BCH Đoàn ủy về đảng viên dự bị 
 5. Mẫu 12B-KNĐ Ý kiến nhận xét của BCH Công đoàn cơ sở về đảng viên dự bị  
@@ -133,6 +135,8 @@ Về chi bộ trực thuộc phải làm thủ tục:
 Gởi về Đảng ủy sớm nhất để Đảng ủy hoàn thành thủ tục gởi về Huyện ủy trước 60 ngày kể từ ngày nghỉ việc hoặc nghỉ hưu...
 
 # ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
+
+**Làm công tác nhân sự theo đúng tinh thần chỉ đạo của cấp trên, [báo cáo tiêu chuẩn chính trị từng cán bộ tham gia ứng cử](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/Eb8MWIDoiaVJmPMW5FdbCiABGf3hE8vsmNs-0HHduajiBw?e=famRQA)**
 
 1. [Văn kiện](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EbdRJDJuf8dCiOhBF06jYS4BorPKeFrJ6PMXQJRvg6TxxQ?e=Uvrghi)
 2. [Kịch bản đại hội](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EXnFtF9sd5lNiaIV6w5PQ6QBzb04dagkMPqXRvIx8s1Ckw?e=pOkomN)
