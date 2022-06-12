@@ -78,17 +78,18 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 12. Nếu quần chúng quá tuổi đoàn thì [viết biên bản họp tổ công đoàn, giới thiệu quần chúng vào Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EckNXRn7thJPvNxXKhFhYlYBBWD3FHuOl-H9PESLnz_7pA?e=rafyIL)
 13. Chứng nhận học lớp cảm tình Đảng (bản gốc)
 14. Các giấy tờ có công chứng:
+```php
   - Bằng tốt nghiệp 
   - Bằng tin học
   - Bằng Ngoại ngữ
   - Bằng chuyên môn
   - Các văn bằng khác (nếu có)
-
+```
 Trường hợp là học sinh đủ 18 tuổi, làm thủ tục phát triển Đảng phải có các loại giấy tờ có công chứng sau:
-
+```php
   - Giấy khen học sinh giỏi
   - Chứng nhận học sinh giỏi vòng Tỉnh, Quốc gia (nếu có)
-
+```
 # LỄ KẾT NẠP ĐẢNG VIÊN #
 
 **Trang trí hội trường: Trên cùng là khẩu hiệu “Đảng Cộng sản Việt Nam quang vinh muôn năm”; cờ Đảng, cờ Tổ quốc, tượng hoặc ảnh Chủ tịch Hồ Chí Minh (bên trái), ảnh Mác - Lênin (bên phải), tiêu đề: “Lễ kết nạp đảng viên”.**
@@ -151,13 +152,14 @@ Gởi về Đảng ủy sớm nhất để Đảng ủy hoàn thành thủ tục
 6. [Quốc ca và Quốc tế ca có lời](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/EW8IvGMJ9HBBttB6MvVPvIkBdZxPK9VvYUP5JDWlRENzLQ?e=iaDyBE)
 7. [Quốc ca và Quốc tế ca không lời](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_tk/Ea_MUFDliCZGqFSpAackfVUB3s_HAkZ5z7z9NtWwqqtkGw?e=I6r1mK)
 
-## CÁC CÔNG VIỆC SAU ĐẠI HỘI: ##
+### CÁC CÔNG VIỆC SAU ĐẠI HỘI: ###
 
 1. [Báo cáo đại hội](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EemGqbTO5MpPvymO1wu6djkBRy0NOtpznFvld7JvAdKoAw?e=j6dpV1)
 2. [Báo cáo thống kê chất lượng chi ủy](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/Eabj8LMgU2FPprsGEtttJFcBshc4M7MUBo6xaZZ2ZKpo5A?e=Iqfl8R)
 3. [Danh sách trích ngang chi ủy](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EfuizWIAVkFFud8Dtn76EZQBrf41yzr80_UunbhmV3Ik2w?e=ql5fhg)
 4. [Tờ trình chuẩn y chi ủy](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EYQY7h7b4IdIo44w8w_4BHABr4-oh8CYivbsDKGYq0F4rw?e=LwNioR)
 5. Thanh tiền đại hội:
+
    - [Thanh tiền văn kiện](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EUOhLh6Tva5Kho6ppS8y128BnTyJZyF19O1lv9QlUz5tOg?e=4kJd5Y)
    - [Thanh tiền khách mời và đại biểu](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQno0T3wO1pHk1ysJY1QQhMB8DMG0_drzRARSWPyKTZ9Xw?e=KRZva5)
 
