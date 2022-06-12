@@ -62,6 +62,18 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 - **Năm 2014: HTXSNV**
 - **Năm 2013: HTXSNV**
 
+# THỦ TỤC KẾT NẠP ĐẢNG #
+
+1. Mẫu 1–KNĐ KNĐ Đơn xin vào Đảng
+2. Mẫu 2–KNĐ Lý lịch người xin vào Đảng
+3. Mẫu 3–KNĐ Giấy giới thiệu người vào Đảng
+4. Mẫu 3-213 Phiếu nhận xét Của Chi ủy nơi cư trú đối với quần chúng xin vào Đảng
+5. Mẫu 4-KNĐ Nghị quyết giới thiệu đoàn viên ưu tú vào Đảng
+6. Mẫu 4A-KNĐ Nghị quyết giới thiệu đoàn viên công đoàn vào Đảng
+7. Mẫu 5-KNĐ Tổng hợp ý kiến nhận xét của các đoàn thể chính trị - xã hội nơi người vào Đảng sinh hoạt và chi uỷ nơi cư trú đối với người vào Đảng
+8. Mẫu 6-KNĐ Nghị quyết đề nghị kết nạp đảng viên của chi bộ
+9. Mẫu 8-KNĐ Nghị quyết đề nghị kết nạp đảng viên của Đảng ủy
+
 # LỄ KẾT NẠP ĐẢNG VIÊN #
 
 **Trang trí hội trường: Trên cùng là khẩu hiệu “Đảng Cộng sản Việt Nam quang vinh muôn năm”; cờ Đảng, cờ Tổ quốc, tượng hoặc ảnh Chủ tịch Hồ Chí Minh (bên trái), ảnh Mác - Lênin (bên phải), tiêu đề: “Lễ kết nạp đảng viên”.**
