@@ -72,9 +72,10 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 6. Mẫu 4A-KNĐ Nghị quyết giới thiệu đoàn viên công đoàn vào Đảng
 7. Mẫu 5-KNĐ Tổng hợp ý kiến nhận xét của các đoàn thể chính trị - xã hội nơi người vào Đảng sinh hoạt và chi uỷ nơi cư trú đối với người vào Đảng
 8. Mẫu 6-KNĐ Nghị quyết đề nghị kết nạp đảng viên của chi bộ
-9. Mẫu 8-KNĐ Nghị quyết đề nghị kết nạp đảng viên của Đảng ủy
-10. Chứng nhận học lớp cảm tình Đảng (bản gốc)
-11. Các giấy tờ có công chứng:
+9. Mẫu 7-KNĐ Báo cáo đề nghị kết nạp đảng viên của Đảng ủy
+10. Mẫu 8-KNĐ Nghị quyết đề nghị kết nạp đảng viên của Đảng ủy
+11. Chứng nhận học lớp cảm tình Đảng (bản gốc)
+12. Các giấy tờ có công chứng:
 
 - Bằng tốt nghiệp 
 - Bằng tin học
