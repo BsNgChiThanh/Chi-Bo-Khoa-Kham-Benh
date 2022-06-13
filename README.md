@@ -140,6 +140,31 @@ Về chi bộ trực thuộc phải làm thủ tục:
 
 Gởi về Đảng ủy sớm nhất để Đảng ủy hoàn thành thủ tục gởi về Huyện ủy trước 60 ngày kể từ ngày nghỉ việc hoặc nghỉ hưu...
 
+# ĐÁNH GIÁ ĐẢNG VIÊN CUỐI NĂM 2021 #
+
+1. Văn bản chỉ đạo đánh giá đảng viên cuối năm: [Hướng dẫn Số: 21-HD/BTCTW](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EWwi7wfzCVxDkD5aFbfhcRQBYZX6Ds-feDysRI-5w8JVdQ?e=ejWdR8), Kế hoạch [Số 48-KH/HU](https://bsthanh-my.sharepoint.com/:b:/g/personal/laptopxiaomi_bsthanh_tk/EYastn_j4fBAjlbEToZwOqwBMuUS4BgYuNgmBf33oQDjdQ?e=MlDBli)
+2. [Đánh giá chi bộ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EZPD-d7X1UdIo5ZHb6PtSrEB0E5w7Z0zlXCELYW5mF9_kQ?e=H7rpBl)
+3. [Tự phê chi ủy chi bộ](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EdfHSX4U8ONMqaZzVj6n1KIBkG7jo1Q5U4oeE_Cf8Tnp0g?e=u5uQpY)
+4. [Tự phê cá nhân](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/ETnLb6KxEfRMjYb3rC-8QpQB9eANjNp5yDqXfjTjdtn3Iw?e=bk28zp)
+5. [Mẫu 2-HSĐV Phiếu bổ sung hồ sơ Đảng](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EYmix9ns4NBCtUhXDiKKemgBcNaJNtysxn2DYvIG1i4yBQ?e=eZfuKx)
+6. [Phiếu nhận dạng 27 biểu hiện suy thoái](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EXZzWYzvC_xHv2zxpwgIAnsBMsmCLk13QKtLKOuGgND2TQ?e=cfsq87)
+
+**Ghi chú:** 
+
+Vẫn tự phê nhưng không đánh giá xếp loại với những trường hợp sau đây:
+   - Đảng viên mới kết nạp chưa quá 6 tháng.
+   - TCCSĐ mới thành lập chưa quá 6 tháng.
+
+Photo công chứng các văn bằng chứng chỉ mới có trong năm nộp cho bí thư chi bộ.
+
+### PHẦN VIỆC SAU TỰ PHÊ CUỐI NĂM ###
+
+1. [Biên bản trích ngang tự phê](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/Ec3tvGxP2ilEgY3uEo5vdPkBZXkjQCKUaFntZs5Sg4zKoA?e=ZUie2N)
+2. [Tổng hợp mẫu 6](https://bsthanh-my.sharepoint.com/:x:/g/personal/laptopxiaomi_bsthanh_tk/ER-93TGv2UVPnseMq3aCN5wB1CEVrkTfeSARTNsxY5nrdw?e=jfAf3F)
+3. [Biểu 6A](https://bsthanh-my.sharepoint.com/:x:/g/personal/laptopxiaomi_bsthanh_tk/EcjxvGPzf7hBvUdMpkd-HGIBW7FtRN4uVfn9zT5XnVCaSA?e=XSmP2E)
+4. [Biểu 6B](https://bsthanh-my.sharepoint.com/:x:/g/personal/laptopxiaomi_bsthanh_tk/ETN_NjxwN4VFqpke9O7mu1IBjODI1f44zAc7csTRVWaeiA?e=D8uhUI)
+5. [Biểu 6CS](https://bsthanh-my.sharepoint.com/:x:/g/personal/laptopxiaomi_bsthanh_tk/EZojeCrj7ZVFraoZ06EesMgBsgwoOdgVFR5hz_Cy-Z_OdA?e=LufaDM)
+
 # ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
 
 **Làm công tác nhân sự theo đúng tinh thần chỉ đạo của cấp trên, [báo cáo tiêu chuẩn chính trị từng cán bộ tham gia ứng cử](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/Eb8MWIDoiaVJmPMW5FdbCiABGf3hE8vsmNs-0HHduajiBw?e=famRQA)**
@@ -159,7 +184,6 @@ Gởi về Đảng ủy sớm nhất để Đảng ủy hoàn thành thủ tục
 3. [Danh sách trích ngang chi ủy](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EfuizWIAVkFFud8Dtn76EZQBrf41yzr80_UunbhmV3Ik2w?e=ql5fhg)
 4. [Tờ trình chuẩn y chi ủy](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EYQY7h7b4IdIo44w8w_4BHABr4-oh8CYivbsDKGYq0F4rw?e=LwNioR)
 5. Thanh tiền đại hội:
-
    - [Thanh tiền văn kiện](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EUOhLh6Tva5Kho6ppS8y128BnTyJZyF19O1lv9QlUz5tOg?e=4kJd5Y)
    - [Thanh tiền khách mời và đại biểu](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQno0T3wO1pHk1ysJY1QQhMB8DMG0_drzRARSWPyKTZ9Xw?e=KRZva5)
 
