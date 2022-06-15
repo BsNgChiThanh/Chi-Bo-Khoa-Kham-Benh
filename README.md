@@ -111,8 +111,8 @@ Nếu có nhiều đảng viên kết nạp cùng một lúc thì kết nạp t�
 
 # Một số mẫu khác của đảng viên #
 
-1. Mẫu 1-HSĐV: Lý lịch đảng viên, hướng dẫn [viết lý lịch đảng viên](https://thuvienphapluat.vn/tintuc/vn/thoi-su-phap-luat/tu-van-phap-luat/31379/huong-dan-khai-ly-lich-dang-vien)
-2. Mẫu 2-HSĐV: Tờ khai thông tin đảng viên, hướng dẫn [viết tờ khai thông tin đảng viên](https://luatvietnam.vn/can-bo-cong-chuc/mau-phieu-dang-vien-566-30174-article.html)
+1. Mẫu 1-HSĐV: [Lý lịch đảng viên](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EWr4WultmYFCk8ovCI2nC84BqRk79rkJSAW3Xv9ElL9vFA?e=XZzh2Y), hướng dẫn [viết lý lịch đảng viên](https://thuvienphapluat.vn/tintuc/vn/thoi-su-phap-luat/tu-van-phap-luat/31379/huong-dan-khai-ly-lich-dang-vien)
+2. Mẫu 2-HSĐV: Tờ khai thông tin đảng viên, [mục 29](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EUPjd6p7KuNAtArx9gbm8UABS2JJUlDlf6Sz9jf4RVnvgQ?e=wtOmwf), hướng dẫn [viết tờ khai thông tin đảng viên](https://luatvietnam.vn/can-bo-cong-chuc/mau-phieu-dang-vien-566-30174-article.html)
 3. Mẫu 3-HSĐV: Phiếu bổ sung hồ sơ đảng viên, hướng dẫn [viết phiếu bổ sung hồ sơ đảng viên](https://luatvietnam.vn/can-bo-cong-chuc/phieu-bo-sung-ho-so-dang-vien-566-32696-article.html)
 
 # CHUYỂN ĐẢNG CHÍNH THỨC #
