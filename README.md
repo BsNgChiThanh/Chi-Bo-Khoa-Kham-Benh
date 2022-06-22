@@ -52,15 +52,17 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 
 # THÀNH TÍCH CHI BỘ #
 
-  - **Năm 2021: HTXSNV, đạt thành tích tiêu biểu trong thực hiện chỉ thị số 05-CT/TW của Bộ Chính trị (2016-2021) (HU khen)**
-  - **Năm 2020: HTXSNV**
-  - **Năm 2019: HTTNV**
-  - **Năm 2018: HTTNV**
-  - **Năm 2017: HTXSNV, đạt “Trong sạch – Vững mạnh” Tiêu biểu 5 năm liền (Năm 2013 – 2017) (HU khen)**
-  - **Năm 2016: HTXSNV**
-  - **Năm 2015: HTXSNV**
-  - **Năm 2014: HTXSNV**
-  - **Năm 2013: HTXSNV**
+| Năm | XL TCCSĐ | Thành tích khác | Ghi chú |
+| --  | --       | --              | --      |
+| 2021| HTXSNV | Đạt thành tích tiêu biểu trong thực hiện chỉ thị số 05-CT/TW của Bộ Chính trị (2016-2021) (HU khen) |[BÁO CÁO THÀNH TÍCH CHI BỘ  thực chỉ thị số 05.docx](https://github.com/BsNgChiThanh/Chi-Bo-Khoa-Kham-Benh/files/8956393/BAO.CAO.THANH.TICH.CHI.B.2021.docx)|
+| 2020| HTXSNV | |||
+| 2019| HTTNV  | |||
+| 2018| HTTNV  | |||
+| 2017| HTXSNV | Đạt “Trong sạch – Vững mạnh” Tiêu biểu 5 năm liền (Năm 2013 – 2017) (HU khen) |[Tiêu biểu 5 năm liền.docx](https://github.com/BsNgChiThanh/Chi-Bo-Khoa-Kham-Benh/files/8956378/BAO.CAO.THANH.TICH.CHI.B.docx)|
+| 2016| HTXSNV | |||
+| 2015| HTXSNV | |||
+| 2014| HTXSNV | |||
+| 2013| HTXSNV | |||
 
 # THỦ TỤC KẾT NẠP ĐẢNG #
 
