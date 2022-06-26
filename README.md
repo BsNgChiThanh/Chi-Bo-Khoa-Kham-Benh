@@ -170,7 +170,7 @@ Photo công chứng các văn bằng chứng chỉ mới có trong năm nộp ch
 # ĐẠI HỘI ĐẢNG VIÊN 6.2022 #
 
 - **Làm công tác nhân sự theo đúng tinh thần chỉ đạo của cấp trên, [báo cáo tiêu chuẩn chính trị từng cán bộ tham gia ứng cử](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/Eb8MWIDoiaVJmPMW5FdbCiABGf3hE8vsmNs-0HHduajiBw?e=famRQA)**
-- **In trình kịch bản đại hội và văn kiện cho người chỉ đạo đại hội, dự kiến ngày đại hội để được chỉnh sửa và hướng dẫn cụ thể**
+- **In trình kịch bản đại hội và văn kiện cho người chỉ đạo đại hội, dự kiến ngày đại hội, khách mời... để được chỉnh sửa và hướng dẫn cụ thể**
 - **Trang trí Đại hội, bảng biểu:**
 
 a. Khẩu hiệu, cờ ảnh (nhìn từ dưới lên)
@@ -196,12 +196,12 @@ c. Các bản khác:
   - ĐẠI BIỂU
   - KHÁCH MỜI
    
- Thẻ đại hội:
+ d. Thẻ đại hội:
   - [Thẻ đỏ: đại biểu chính thức (đảng viên chính thức)](https://user-images.githubusercontent.com/82578024/175795170-1b8e6d3a-e669-477f-b954-9951c23acd8f.jpg)
   - [Thẻ vàng:](https://user-images.githubusercontent.com/82578024/175795174-ba74dde3-9787-46c2-b09d-14adfc427337.jpg)
   - [Thẻ xanh:](https://user-images.githubusercontent.com/82578024/175795177-fc0cc144-b317-4d26-b235-84a633b9fea4.jpg)
   
- Trải bàn vải trắng, bình bông, pin micro, âm thanh, ánh sáng, văn nghệ (nếu có), nước phục vụ đại hội
+ Trải bàn vải trắng, bình bông, pin micro, âm thanh, ánh sáng, văn nghệ (nếu có), nước phục vụ đại hội, thùng phiếu...
  
  Trang phục đại hội: 
   - Nam: Quần Âu tối màu, sơ mi trắng, bỏ áo vào quần, cà vạt, giày.
