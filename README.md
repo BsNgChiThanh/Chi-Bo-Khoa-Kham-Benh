@@ -229,6 +229,14 @@ c. Các bản khác:
 
 # [HÌNH ẢNH HOẠT ĐỘNG CHI BỘ](https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EvfoxZHPIt9OkV5jxtJv_MQBJp9EgjsSJxb73P_ToUPEwA?e=1uYdr8) #
 
+![z3534314751397_4f3dfc1a6da9e5988b71d40885688ea6](https://user-images.githubusercontent.com/82578024/184464463-27cdc9f1-6647-47cd-b411-9274f5f6188e.jpg)
+
+![z3534315015575_d4905739ebb1cf4a92660104e3939f22](https://user-images.githubusercontent.com/82578024/184464471-076b802d-c0bc-4e45-8ce7-ae368f156e22.jpg)
+
+![z3534315883906_53398c09f072a244afa538d376a9f7f0](https://user-images.githubusercontent.com/82578024/184464483-b11b2613-68c2-457a-b776-dd9c47ba2e1a.jpg)
+
+![z3534316373355_9904a2356403e2b9eb2200bf0ac8772a](https://user-images.githubusercontent.com/82578024/184464490-81828d03-af2e-4d3e-9b04-f024e8fd0a5d.jpg)
+
 ![1](https://user-images.githubusercontent.com/82578024/173048773-7446c7a1-258e-4b55-8417-7dd15d65c629.jpg)
 
 ![FB_IMG_1591964728860](https://user-images.githubusercontent.com/82578024/164394512-a61753ee-0ff1-43bb-8aaf-92575eda718e.jpg)
