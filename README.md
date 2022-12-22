@@ -71,7 +71,7 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 | Năm | HTXSNV| Thành tích khác | Ghi chú |
 | --  | --       | --              | --      |
 |2022|           |                 |         |
-|2021|1. Nguyễn Chí Thành 2. Trang Thành Lập 3. Phạm Văn Nhân| Trang Thành Lập nhận bằng khen HTXSNV 5 năm liên||
+|2021|1. Nguyễn Chí Thành 2. Trang Thành Lập 3. Phạm Văn Nhân| Trang Thành Lập nhận bằng khen HTXSNV 5 năm liền||
 |2020| 1. Nguyễn Chí Thành 2. Trang Thành Lập 3. Lê Thị Lan|
 |2019| 1. Trang Thành Lập 2. Phạm Văn Nhân|
 |2018| 1. Trang Thành Lập 2. Lưu Minh Thắng|
