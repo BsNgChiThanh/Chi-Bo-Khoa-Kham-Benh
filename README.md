@@ -2,11 +2,11 @@
 
  ## Trực thuộc Đảng bộ Bệnh viện Đa khoa Đầm Dơi!
 
-**[Thẻ đảng viên](https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EsAJ6Z-IchBMt-Wdw3xUcgcBNE3QoeVc7kjRTpckYgr9jQ?e=kaVgud)**
+**[Thẻ đảng viên](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/EslJVosc4O1No18LeEx1ksgBvuJW2IYXaWaZuQ7ye_Z_Lw?e=sIXTfk)**
 
-**[Kiểm tra thẻ đảng viên](https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EvC19VthJXRIjSYt0E5YWYEBry9mbaaAttCfeIeABeH7wg?e=vLKq3z)**  
+**[Kiểm tra thẻ đảng viên](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/Em2r5m3Go_lKoe7TlMSyIEEBMCr9NBdiyyZGDo39o8IyQw?e=bPnwID)**  
 
-**[Hình ảnh thành tích Chi bộ](https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/ElLm4nnE4NxClvxQMLCr_ZEBpTVXlvr0__UbHm9hyt_ZtQ?e=t63zN2)**
+**[Hình ảnh thành tích Chi bộ](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/Egb-2qcgAzVPgp9Z0qRnOeoB5QAGabjvy0If662xswrjzg?e=3PAmvL)**
 
 ![HTXSNV 2021](https://user-images.githubusercontent.com/82578024/172732470-c7a3d22f-6eca-479c-941a-e3a14a5fd502.jpg)
 ![12 01 2013](https://user-images.githubusercontent.com/82578024/163569051-74043240-c5c3-41d0-aa09-02fe04c938f5.jpg)
@@ -240,7 +240,7 @@ c. Các bản khác:
    - [Thanh tiền văn kiện](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EUOhLh6Tva5Kho6ppS8y128BnTyJZyF19O1lv9QlUz5tOg?e=4kJd5Y)
    - [Thanh tiền khách mời và đại biểu](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQno0T3wO1pHk1ysJY1QQhMB8DMG0_drzRARSWPyKTZ9Xw?e=KRZva5)
 
-# [HÌNH ẢNH HOẠT ĐỘNG CHI BỘ](https://pwht-my.sharepoint.com/:f:/g/personal/free426_office365vn_online/EvfoxZHPIt9OkV5jxtJv_MQBJp9EgjsSJxb73P_ToUPEwA?e=1uYdr8) #
+# [HÌNH ẢNH HOẠT ĐỘNG CHI BỘ](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/Esx_JcYm8uhEgQs0_cDW0GMB0lZFvk3JoKZFnzfkS0Khvg?e=Y3dXqm) #
 
 ![z3534314751397_4f3dfc1a6da9e5988b71d40885688ea6](https://user-images.githubusercontent.com/82578024/184464463-27cdc9f1-6647-47cd-b411-9274f5f6188e.jpg)
 
