@@ -54,7 +54,7 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 
 | Năm | XL TCCSĐ | Thành tích khác | Ghi chú |
 | --  | --       | --              | --      |
-|2022|           |                 |         |
+|2022|HTTNV    |                |         |
 | 2021| HTXSNV | Đạt thành tích tiêu biểu trong thực hiện chỉ thị số 05-CT/TW của Bộ Chính trị (2016-2021) (HU khen) |[BÁO CÁO THÀNH TÍCH CHI BỘ  thực chỉ thị số 05.docx](https://github.com/BsNgChiThanh/Chi-Bo-Khoa-Kham-Benh/files/8956393/BAO.CAO.THANH.TICH.CHI.B.2021.docx)|
 | 2020| HTXSNV | |||
 | 2019| HTTNV  | |||
@@ -70,7 +70,7 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 
 | Năm | HTXSNV| Thành tích khác | Ghi chú |
 | --  | --       | --              | --      |
-|2022|           |                 |         |
+|2022| 1. Trang Thành Lập (duy nhất)|                 |         |
 |2021|1. Nguyễn Chí Thành 2. Trang Thành Lập 3. Phạm Văn Nhân| Trang Thành Lập nhận bằng khen HTXSNV 5 năm liền||
 |2020| 1. Nguyễn Chí Thành 2. Trang Thành Lập 3. Lê Thị Lan|
 |2019| 1. Trang Thành Lập 2. Phạm Văn Nhân|
