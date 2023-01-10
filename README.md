@@ -211,8 +211,8 @@ c. Các bản khác:
    
  d. Thẻ đại hội:
   - [Thẻ đỏ: đại biểu chính thức (đảng viên chính thức)](https://user-images.githubusercontent.com/82578024/175795170-1b8e6d3a-e669-477f-b954-9951c23acd8f.jpg)
-  - [Thẻ vàng:](https://user-images.githubusercontent.com/82578024/175795174-ba74dde3-9787-46c2-b09d-14adfc427337.jpg)
-  - [Thẻ xanh:](https://user-images.githubusercontent.com/82578024/175795177-fc0cc144-b317-4d26-b235-84a633b9fea4.jpg)
+  - [Thẻ vàng: đảng viên dự bị](https://user-images.githubusercontent.com/82578024/175795174-ba74dde3-9787-46c2-b09d-14adfc427337.jpg)
+  - [Thẻ xanh: khách mời](https://user-images.githubusercontent.com/82578024/175795177-fc0cc144-b317-4d26-b235-84a633b9fea4.jpg)
   
  Trải bàn vải trắng, bình bông, pin micro, âm thanh, ánh sáng, văn nghệ (nếu có), nước phục vụ đại hội, thùng phiếu...
  
