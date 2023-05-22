@@ -49,7 +49,7 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 16 | Dương Minh Toàn | | X | | 12.07.2016 |
 17 | Trần Thị Hiền|||x|30.04.2008|
 18 | Đặng Nga Mi  |||X|03.06.2022|  
-19 | Võ Quốc Khái | | X | | 04.02.2023 |Sơ cấp chính trị
+19 | Võ Quốc Khái | | X | | 04.02.2023 | 
 20 | Ngô Ngọc Hân |||x|26.03.2023
 
 # THÀNH TÍCH CHI BỘ #
