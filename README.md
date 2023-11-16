@@ -48,9 +48,8 @@ STT | Họ và tên | Chức vụ, chức danh | Nam | Nữ | Ngày vào Đảng
 15 | Lê Minh Trí | | X |  | 20.08.2012 |
 16 | Dương Minh Toàn | | X | | 12.07.2016 |
 17 | Trần Thị Hiền|||X|30.04.2008|
-18 | Đặng Nga Mi  |||X|03.06.2022|  
-19 | Võ Quốc Khái | | X | | 04.02.2023 | 
-20 | Ngô Ngọc Hân |||X|26.03.2023
+18 | Ngô Ngọc Hân |||X|26.03.2023
+19 | ~~Võ Quốc Khái~~ | | X | | 04.02.2023 | 
 
 # THÀNH TÍCH CHI BỘ #
 
